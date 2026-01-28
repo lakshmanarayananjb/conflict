@@ -1,4 +1,6 @@
-//learning github
+
+//hai hello welcome to github
+
 #include <stdio.h>
 
 void checkNumber(int n) {
