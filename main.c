@@ -1,4 +1,4 @@
-//git is fun
+//learning github
 #include <stdio.h>
 
 void checkNumber(int n) {
